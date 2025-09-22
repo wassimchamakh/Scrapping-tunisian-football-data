@@ -1,0 +1,576 @@
+{
+  "Moez Ben Cherifia_https://www.transfermarkt.com/moez-ben-cherifia/profil/spieler/143581": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T19:35:55.012745"
+  },
+  "Ali Jemal_https://www.transfermarkt.com/ali-jemal/profil/spieler/221355": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/vereinslos/startseite/verein/515"
+    },
+    "club": "Without Club",
+    "timestamp": "2025-09-17T19:36:06.714699"
+  },
+  "Wassim Karoui_https://www.transfermarkt.com/wassim-karoui/profil/spieler/402696": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/vereinslos/startseite/verein/515"
+    },
+    "club": "Without Club",
+    "timestamp": "2025-09-17T19:36:16.620027"
+  },
+  "Sami Helal_https://www.transfermarkt.com/sami-helal/profil/spieler/206758": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T19:36:28.892080"
+  },
+  "Hamza Ben Cherifia_https://www.transfermarkt.com/hamza-ben-cherifia/profil/spieler/295380": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T19:36:40.794896"
+  },
+  "Chamseddine Dhaouadi_https://www.transfermarkt.com/chamseddine-dhaouadi/profil/spieler/133227": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T19:37:04.137408"
+  },
+  "Hicham Belkaroui_https://www.transfermarkt.com/hicham-belkaroui/profil/spieler/233750": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T19:37:16.898029"
+  },
+  "Ali Machani_https://www.transfermarkt.com/ali-machani/profil/spieler/171002": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T19:37:28.491627"
+  },
+  "Khalil Chemmam_https://www.transfermarkt.com/khalil-chemmam/profil/spieler/108831": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T19:37:40.504707"
+  },
+  "Mohamed Ali Yaakoubi_https://www.transfermarkt.com/mohamed-ali-yaakoubi/profil/spieler/134629": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T19:37:50.349455"
+  },
+  "Fousseny Coulibaly_https://www.transfermarkt.com/fousseny-coulibaly/profil/spieler/291848": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T19:38:23.409303"
+  },
+  "Ichaka Diarra_https://www.transfermarkt.com/ichaka-diarra/profil/spieler/274480": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T19:39:22.225772"
+  },
+  "Houcine Rabii_https://www.transfermarkt.com/houcine-rabii/profil/spieler/337291": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T19:39:34.187517"
+  },
+  "Ali Abdi_https://www.transfermarkt.com/ali-abdi/profil/spieler/211474": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T19:39:45.916297"
+  },
+  "Iheb Mbarki_https://www.transfermarkt.com/iheb-mbarki/profil/spieler/122374": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T19:39:58.799946"
+  },
+  "Sameh Derbali_https://www.transfermarkt.com/sameh-derbali/profil/spieler/69097": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T19:40:09.107529"
+  },
+  "Mohamed Amine Nefzi_https://www.transfermarkt.com/mohamed-amine-nefzi/profil/spieler/217597": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/vereinslos/startseite/verein/515"
+    },
+    "club": "Without Club",
+    "timestamp": "2025-09-17T19:40:18.347894"
+  },
+  "Hocine Ragued_https://www.transfermarkt.com/hocine-ragued/profil/spieler/25705": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T19:40:26.949971"
+  },
+  "Mondher Guesmi_https://www.transfermarkt.com/mondher-guesmi/profil/spieler/401849": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T19:41:06.831471"
+  },
+  "Mouez Aboud_https://www.transfermarkt.com/mouez-aboud/profil/spieler/274971": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/vereinslos/startseite/verein/515"
+    },
+    "club": "Without Club",
+    "timestamp": "2025-09-17T19:41:17.343539"
+  },
+  "Ferjani Sassi_https://www.transfermarkt.com/ferjani-sassi/profil/spieler/191903": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T19:41:31.549866"
+  },
+  "Chaker Reguiî_https://www.transfermarkt.com/chaker-reguii/profil/spieler/122971": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T19:41:40.263729"
+  },
+  "Ghaylen Chaalali_https://www.transfermarkt.com/ghaylen-chaalali/profil/spieler/346776": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T19:42:15.685640"
+  },
+  "Saad Bguir_https://www.transfermarkt.com/saad-bguir/profil/spieler/253752": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T19:43:17.513706"
+  },
+  "Idriss Mhirsi_https://www.transfermarkt.com/idriss-mhirsi/profil/spieler/171755": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T19:44:22.014046"
+  },
+  "Elyes Jelassi_https://www.transfermarkt.com/elyes-jelassi/profil/spieler/292219": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T19:44:32.425539"
+  },
+  "Adam Rejaibi_https://www.transfermarkt.com/adam-rejaibi/profil/spieler/208581": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/vereinslos/startseite/verein/515"
+    },
+    "club": "Without Club",
+    "timestamp": "2025-09-17T19:45:07.245180"
+  },
+  "Zied Ounalli_https://www.transfermarkt.com/zied-ounalli/profil/spieler/215828": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T19:45:20.586348"
+  },
+  "Youssef Khemiri_https://www.transfermarkt.com/youssef-khemiri/profil/spieler/376087": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/vereinslos/startseite/verein/515"
+    },
+    "club": "Without Club",
+    "timestamp": "2025-09-17T19:45:33.799593"
+  },
+  "Samuel Eduok_https://www.transfermarkt.com/samuel-eduok/profil/spieler/274802": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T19:45:57.121657"
+  },
+  "Bernard Bulbwa_https://www.transfermarkt.com/bernard-bulbwa/profil/spieler/364294": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T19:46:09.138286"
+  },
+  "Abdoulaye Sissoko_https://www.transfermarkt.com/abdoulaye-sissoko/profil/spieler/174709": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T19:46:21.979663"
+  },
+  "Bilel Mejri_https://www.transfermarkt.com/bilel-mejri/profil/spieler/441208": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T19:46:33.026643"
+  },
+  "Anice Badri_https://www.transfermarkt.com/anice-badri/profil/spieler/164925": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T19:47:11.726068"
+  },
+  "Fakhreddine Ben Youssef_https://www.transfermarkt.com/fakhreddine-ben-youssef/profil/spieler/218058": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/vereinslos/startseite/verein/515"
+    },
+    "club": "Without Club",
+    "timestamp": "2025-09-17T19:47:20.683260"
+  },
+  "Taha Yassine Khenissi_https://www.transfermarkt.com/taha-yassine-khenissi/profil/spieler/142252": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T19:47:30.707414"
+  },
+  "Haythem Jouini_https://www.transfermarkt.com/haythem-jouini/profil/spieler/146519": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T19:48:12.997226"
+  },
+  "Saliou Guindo_https://www.transfermarkt.com/saliou-guindo/profil/spieler/364854": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T19:48:22.442902"
+  },
+  "Montassar Talbi_https://www.transfermarkt.com/montassar-talbi/profil/spieler/496706": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T19:51:14.035152"
+  },
+  "Malek Miladi_https://www.transfermarkt.com/malek-miladi/profil/spieler/376085": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T19:52:29.456968"
+  },
+  "Ferid Matri_https://www.transfermarkt.com/ferid-matri/profil/spieler/147022": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T19:52:41.376292"
+  },
+  "Ayman Ben Mohamed_https://www.transfermarkt.com/ayman-ben-mohamed/profil/spieler/249446": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/vereinslos/startseite/verein/515"
+    },
+    "club": "Without Club",
+    "timestamp": "2025-09-17T19:54:01.471337"
+  },
+  "Franck Kom_https://www.transfermarkt.com/franck-kom/profil/spieler/148518": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T19:54:30.932780"
+  },
+  "Wassim Naghmouchi_https://www.transfermarkt.com/wassim-naghmouchi/profil/spieler/264336": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T19:56:43.248534"
+  },
+  "Mohamed Ali Moncer_https://www.transfermarkt.com/mohamed-ali-moncer/profil/spieler/172296": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T19:57:26.590651"
+  },
+  "Maher Ben Seghaier_https://www.transfermarkt.com/maher-ben-seghaier/profil/spieler/403255": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T19:58:01.189169"
+  },
+  "Mohamed Ali Mhadhebi_https://www.transfermarkt.com/mohamed-ali-mhadhebi/profil/spieler/159550": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T19:58:53.829814"
+  },
+  "Khaled Gharsallaoui_https://www.transfermarkt.com/khaled-gharsallaoui/profil/spieler/214957": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/vereinslos/startseite/verein/515"
+    },
+    "club": "Without Club",
+    "timestamp": "2025-09-17T19:59:20.212308"
+  },
+  "Mohamed Zaabia_https://www.transfermarkt.com/mohamed-zaabia/profil/spieler/75794": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T20:01:39.802875"
+  },
+  "Rami Jeridi_https://www.transfermarkt.com/rami-jeridi/profil/spieler/122489": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T20:02:17.666040"
+  },
+  "Hamza Ghanmi_https://www.transfermarkt.com/hamza-ghanmi/profil/spieler/577882": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T20:02:52.441325"
+  },
+  "Aymen Mahmoud_https://www.transfermarkt.com/aymen-mahmoud/profil/spieler/370034": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T20:04:57.123446"
+  },
+  "Chams Deen Chaona_https://www.transfermarkt.com/chams-deen-chaona/profil/spieler/570510": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T20:06:13.049276"
+  },
+  "Mohamed Aziz Boucetta_https://www.transfermarkt.com/mohamed-aziz-boucetta/profil/spieler/581162": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T20:06:22.151179"
+  },
+  "Malek Charfi_https://www.transfermarkt.com/malek-charfi/profil/spieler/578910": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T20:08:34.396791"
+  },
+  "Mohamed Amine Meskini_https://www.transfermarkt.com/mohamed-amine-meskini/profil/spieler/422389": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T20:09:51.901522"
+  },
+  "Mohamed Ali Ben Romdhane_https://www.transfermarkt.com/mohamed-ali-ben-romdhane/profil/spieler/577881": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T20:10:17.071994"
+  },
+  "Youcef Belaïli_https://www.transfermarkt.com/youcef-belaili/profil/spieler/175014": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T20:11:39.101273"
+  },
+  "Änis Ben-Hatira_https://www.transfermarkt.com/anis-ben-hatira/profil/spieler/35872": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T20:13:24.412627"
+  },
+  "Michael Eneramo_https://www.transfermarkt.com/michael-eneramo/profil/spieler/49838": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T20:17:24.672773"
+  },
+  "Mohamed Sedki Debchi_https://www.transfermarkt.com/mohamed-sedki-debchi/profil/spieler/572190": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T21:19:17.619415"
+  },
+  "Abdelkader Bedrane_https://www.transfermarkt.com/abdelkader-bedrane/profil/spieler/376649": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T21:19:45.697826"
+  },
+  "Mohamed Amine Tougai_https://www.transfermarkt.com/mohamed-amine-tougai/profil/spieler/592396": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T21:20:15.946373"
+  },
+  "Ilyes Chetti_https://www.transfermarkt.com/ilyes-chetti/profil/spieler/477834": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T21:20:31.884557"
+  },
+  "Mohamed Amine Ben Hamida_https://www.transfermarkt.com/mohamed-amine-ben-hamida/profil/spieler/454495": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T21:20:50.854924"
+  },
+  "Raed Fadaa_https://www.transfermarkt.com/raed-fadaa/profil/spieler/537392": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/vereinslos/startseite/verein/515"
+    },
+    "club": "Without Club",
+    "timestamp": "2025-09-17T21:21:17.298326"
+  },
+  "Samuel Atvati_https://www.transfermarkt.com/samuel-atvati/profil/spieler/628191": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T21:21:35.510100"
+  },
+  "Kwame Bonsu_https://www.transfermarkt.com/kwame-bonsu/profil/spieler/269558": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T21:21:48.272694"
+  },
+  "Badreddine Mouelhi_https://www.transfermarkt.com/badreddine-mouelhi/profil/spieler/807057": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T21:22:15.052778"
+  },
+  "Abdelraouf Benguit_https://www.transfermarkt.com/abdelraouf-benguit/profil/spieler/345810": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T21:22:26.607797"
+  },
+  "Youssef Mosrati_https://www.transfermarkt.com/youssef-mosrati/profil/spieler/651142": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T21:22:50.350215"
+  },
+  "Hamdou El Houni_https://www.transfermarkt.com/hamdou-el-houni/profil/spieler/377605": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T21:23:01.224941"
+  },
+  "Fedi Ben Choug_https://www.transfermarkt.com/fedi-ben-choug/profil/spieler/415482": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T21:23:11.828993"
+  },
+  "Abderrahmane Meziane_https://www.transfermarkt.com/abderrahmane-meziane/profil/spieler/321198": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T21:23:24.549679"
+  },
+  "Billel Bensaha_https://www.transfermarkt.com/billel-bensaha/profil/spieler/323326": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T21:23:36.487407"
+  },
+  "Farouk Mimouni_https://www.transfermarkt.com/farouk-mimouni/profil/spieler/782597": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T21:23:59.485830"
+  },
+  "Tayeb Meziani_https://www.transfermarkt.com/tayeb-meziani/profil/spieler/373035": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T21:24:11.209938"
+  },
+  "Ibrahim Ouattara_https://www.transfermarkt.com/ibrahim-ouattara/profil/spieler/515138": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T21:25:31.727403"
+  },
+  "Mohamed Ali Ben Hammouda_https://www.transfermarkt.com/mohamed-ali-ben-hammouda/profil/spieler/700169": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T21:25:59.107989"
+  },
+  "Junior Lokosa_https://www.transfermarkt.com/junior-lokosa/profil/spieler/584674": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/vereinslos/startseite/verein/515"
+    },
+    "club": "Without Club",
+    "timestamp": "2025-09-17T21:26:12.224153"
+  },
+  "Zied Berrima_https://www.transfermarkt.com/zied-berrima/profil/spieler/645530": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T21:26:23.548283"
+  },
+  "Youssef Abdelli_https://www.transfermarkt.com/youssef-abdelli/profil/spieler/700702": {
+    "details": {
+      "current_club_url": "https://www.transfermarkt.com/retired/startseite/verein/123"
+    },
+    "club": "Retired",
+    "timestamp": "2025-09-17T21:26:34.640837"
+  }
+}
